@@ -1,5 +1,7 @@
 # Countries
 
+![Flags](flags.jpg)
+
 The data used to build the files provided comes from two sources:
 
 - The [IBAN website](https://www.iban.com/country-codes)
